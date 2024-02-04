@@ -84,7 +84,10 @@ ol {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
     background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
 }
 
 
@@ -103,4 +106,6 @@ ol {
     align-items: end;
 
     background-color: #1F2937;
+    /* correct color? */
+    color: #E5E7EB;
 }
