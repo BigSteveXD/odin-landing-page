@@ -9,10 +9,17 @@ body {
     align-items: center;
 
     background-color: #1F2937;
-    text-decoration-color: white;
 }
 
+.links {
+    
+}
 
+.hero {
+    text-size-adjust: 48px;
+    font-weight: bolder;
+    color: #F9FAF9;
+}
 
 ol {
     display: flex;
@@ -27,6 +34,8 @@ ol {
     display: flex;
     justify-content: space-around;
     /* align-items: center; */
+
+    background-color: #1F2937;
 }
 
 .section2 {
@@ -58,4 +67,6 @@ ol {
     display: flex;
     justify-content: center;
     align-items: end;
+
+    background-color: #1F2937;
 }
