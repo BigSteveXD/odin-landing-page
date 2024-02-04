@@ -27,6 +27,7 @@ body {
     color: #F9FAF9;
 }
 
+/* links */
 ol {
     display: flex;
     flex-direction: row;
@@ -42,6 +43,20 @@ ol {
     /* align-items: center; */
 
     background-color: #1F2937;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.right {
+    display: flex;
+}
+
+.button {
+    margin: 0 16px;
 }
 
 .section2 {
