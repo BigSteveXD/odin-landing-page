@@ -92,19 +92,19 @@ a {
     align-items: center;
     margin: 50px;
 }
-.four-container {
+.two-container {
     display: flex;
     flex-direction: rows;
     justify-content: space-around;
 }
-.four-one, .four-two, .four-three, .four-four {
+.two-one, .two-two, .two-three, .two-four {
     display: flex;
     flex-direction: column;
     margin: 30px;
     flex-wrap: wrap;
     max-width: 180px;
 }
-.four-images {
+.two-images {
     display: flex;
     width: 180px;
     height: 180px;
