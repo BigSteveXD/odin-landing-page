@@ -74,6 +74,8 @@ a {
 }
 .right {
     display: flex;
+    justify-content: center;
+    align-items: center;
     width: 450px;
     height: 250px;
 
