@@ -90,14 +90,19 @@ a {
     flex-direction: rows;
     justify-content: space-around;
 }
+.four-one, .four-two, .four-three, .four-four {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    flex-wrap: wrap;
+    max-width: 180px;
+}
 .four-images {
     display: flex;
-    flex-direction: rows;
     width: 180px;
     height: 180px;
     outline: solid #3882F6 5px;
     border-radius: 20px;
-    margin: 30px;
 }
 
 
