@@ -118,6 +118,8 @@ ol {
     flex-direction: column;
     /* was start */
     align-items: start;
+    
+    color: #E5E7EB;
 }
 .four-right {
     display: flex;
