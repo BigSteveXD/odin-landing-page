@@ -158,6 +158,9 @@ a {
     display: flex;
     align-items: center;
 }
+#button2 {
+    outline: solid #E5E7EB 2px;
+}
 
 
 /* footer */
