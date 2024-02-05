@@ -119,8 +119,16 @@ a {
 }
 .three-container {
     display: flex;
-    padding: 200px 300px;
+    flex-direction: column;
+    padding: 50px 100px;
 }
+.bottom {
+    display: flex;
+    align-self: end;
+}
+/* display: flex; */
+/* padding: 200px 300px; */
+
 
 
 /* section 4 */
