@@ -53,10 +53,11 @@ ol {
     color: #F9FAF9;
 }
 .button {
-    padding: 0 16px;
+    padding: 5px 20px;
     color: #E5E7EB;
     background-color: #3882F6;
     border-radius: 5px;
+    font-weight: bold;
 }
 .right {
     display: flex;
