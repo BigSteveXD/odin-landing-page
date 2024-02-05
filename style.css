@@ -60,8 +60,11 @@ ol {
 }
 .right {
     display: flex;
+    /* text-align: center; */
     width: 400px;
     height: 300px;
+    color: #E5E7EB;
+    background-color: #6D747D;
 }
 
 
