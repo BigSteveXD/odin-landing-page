@@ -94,7 +94,17 @@ ol {
 /* section 4 */
 .section4 {
     display: flex;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: space-around;
+    /* align-items: center; */
+}
+.four-left {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+.four-right {
+    display: flex;
     align-items: center;
 }
 
