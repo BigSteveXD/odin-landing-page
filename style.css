@@ -35,8 +35,8 @@ ol {
 /* section 1 */
 .section1 {
     display: flex;
-    justify-content: space-around;
-    /* align-items: center; */
+    /* space-around */
+    justify-content: center;
 
     background-color: #1F2937;
 }
@@ -44,11 +44,12 @@ ol {
     display: flex;
     flex-direction: column;
     align-items: start;
-    width: 400px;
-    height: 300px;
+    width: 450px;
+    height: 250px;
+    padding-right: 50px;
 }
 .hero {
-    text-size-adjust: 48px;
+    font-size: 48px;
     font-weight: bolder;
     color: #F9FAF9;
 }
@@ -62,8 +63,9 @@ ol {
 .right {
     display: flex;
     /* text-align: center; */
-    width: 400px;
-    height: 300px;
+    width: 450px;
+    height: 250px;
+
     color: #E5E7EB;
     background-color: #6D747D;
 }
